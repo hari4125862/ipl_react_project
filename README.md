@@ -13,18 +13,18 @@ Generate the following plots ...
 4. For the year 2015 plot the top economical bowlers.
 
 
-##technologies.....
+## technologies.....
 1>MongoDB
 2>Express
 3>Nodejs
 4>React
 
-##use mongodb to extract the data from csv files ===============
+## use mongodb to extract the data from csv files ===============
 ## backend
  ->index.js
   ->connection to the database
  
-##frontend
+## frontend
 ->client
  ->App.js
   ->components folder
